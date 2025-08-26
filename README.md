@@ -46,6 +46,5 @@ This project is a **gesture-controlled computer vision tool** that lets users cr
    ```bash
    # Press 'f' to switch between filters
    # Press 'Esc' to quit the program
-```
 
 ---
