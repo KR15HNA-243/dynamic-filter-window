@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.test
+
+# Logs
+*.log
+
+# Cache
+.cache/
+*.tsbuildinfo
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+dfw_venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.o
+*.so
